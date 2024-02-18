@@ -31,5 +31,10 @@ Welcome to the Restaurant Name Cuisine Generator repository! This project utiliz
 - Enter prompts or preferences for generating restaurant names and cuisines.
 - Explore the generated suggestions and select your favorites for further consideration.
 
+  ## Output
+  Here is how the app looks like:
+  ![Screenshot 2024-02-18 015814](https://github.com/Akshay-krishna-R/Restaurant-Name-Cuisine-Generator-with-Generative-Ai/assets/83361041/c0c14141-7c2a-4dfa-aea1-a5b678f2c8a1)
+
+
 
 
